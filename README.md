@@ -3,7 +3,7 @@
 ![image](https://github.com/Ahmed-Abbah/Bills-Tracker-Android-App/assets/131389003/5af2ead3-48c8-4780-a0e0-30d253ed4db0)
 ![image](https://github.com/Ahmed-Abbah/Bills-Tracker-Android-App/assets/131389003/b725c981-430b-438c-a6bd-fb5b195af39a)
 ![image](https://github.com/Ahmed-Abbah/Bills-Tracker-Android-App/assets/131389003/25eafae2-0c43-4110-921c-61d9c9c28456)
-![image](https://github.com/Ahmed-Abbah/Bills-Tracker-Android-App/assets/131389003/be2d4848-0765-47b6-8784-4899be6bd854)
+
 
 
 
